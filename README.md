@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&text=&height=150)
+<br/><br/><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimazsr&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimazsr&layout=compact&theme=buefy)
+
+<br/><br/><br/>
+![Footer](https://capsule-render.vercel.app/api?type=rect&text=&height=10)
+</div>
 
 <!--
 **dimazsr/dimazsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
